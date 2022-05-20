@@ -4,4 +4,4 @@ Uhhhhhh, I have a Discord server too, where you can talk with me and some people
 
 Also here is some thing:
 
-![](https://github-readme-stats.vercel.app/api?username=toolifelesstocode&count_private=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=toolifelesstocode&count_private=true&theme=midnight-purple)
